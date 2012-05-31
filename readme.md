@@ -21,7 +21,7 @@ The recommended method of installation is via Package Control.
 
 Go to your Sublime Text 2 `Packages` directory and clone the repository using the command below:
 
-    git clone https://github.com/SublimeText/ColdFusion
+    git clone https://github.com/aeakett/ColdFusion
 
 ### Download Manually
 
@@ -60,7 +60,7 @@ Go to your Sublime Text 2 `Packages` directory and clone the repository using th
     </tr>
     <tr>
         <td>
-<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>c</kbd> <code>cfml comment</code>
+<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>m</kbd> <code>cfml comment</code>
         </td>
         <td>
 <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>/</kbd> <code>javadoc comment</code>
